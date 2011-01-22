@@ -1,3 +1,4 @@
+
 =Plx.Studio=
 *你好，中国*
 _斜体字_
@@ -10,3 +11,15 @@ _斜体字_
 * bbbb
 * bbbb
 * bbbb
+
+{{{
+#include <stdio.h>
+void main(int argc, char*argv[]){
+ printf("hello,world");
+ return 0;
+}
+}}}
+[http://domain/page/a/c/b]
+
+||111||aaa||ccc||
+||222||bbb||ddd||
