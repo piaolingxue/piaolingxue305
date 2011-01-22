@@ -1,3 +1,12 @@
 =Plx.Studio=
-*bold*你好中国
-_italic_ hello,world
+*你好，中国*
+_斜体字_
+`hello,world,i,m here`
+'iiiiii'
+#1 aaa
+#2 bbb
+#3 ccc
+
+* bbbb
+* bbbb
+* bbbb
