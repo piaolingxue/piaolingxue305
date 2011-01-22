@@ -1,0 +1,3 @@
+=Plx.Studio=
+*bold*你好中国
+_italic_ hello,world
